@@ -1,5 +1,6 @@
 {
+  "type": "module",
   "dependencies": {
-    "chart.js": "^4.4.2"
+    "pg": "^8.11.5"
   }
 }
